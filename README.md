@@ -17,6 +17,12 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
   
 </details>
 
+## earthaccess hack
+
+Monday Dec 15, 1:00 - 6:00 pm CST.
+
+supported in part by ESIP FUNding Friday.
+
 ## Monday Dec 15
 
 **Talks**
