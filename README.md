@@ -22,10 +22,10 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 **Talks**
 
 <details>
-<summary>Talk: **Showing up at other people's parties: interoperable communities building robust science infrastructure for data stewardship and cloud workflows.** (Invited) 10:45 – 10:56 CST. Point of contact: Julia Stewart Lowndes, Openscapes
+<summary>Talk: **Showing up at other people's parties: interoperable communities building robust science infrastructure for data stewardship and cloud workflows.** (Invited) 10:45 – 10:56 CST. Point of contact: Julia Stewart Lowndes, Openscapes  
 </summary> 
   
-<https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1902615>
+<https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1902615>  
 
 Authors: Julia Stewart Lowndes, Openscapes, San Francisco, United States, Stefanie Butland, Openscapes, LLC, Santa Barbara, United States, Rachael E Blake, Intertidal Agency, Maryland, United States and Elizabeth E Holmes, NOAA Fisheries, Northwest Fisheries Science Center, Seattle, United States
 
@@ -45,10 +45,12 @@ Monday,15 December 2025, 10:45 – 10:56 CST
 **Talks**
 
 <details>
-<summary>Talk: IN23A-04 **The extensible social infrastructure enabling NASA Earthdata science in the cloud** (Invited) 14:50 - 15:00 CST. **Julia Stewart Lowndes**, Openscapes, San Francisco, United States, Amy E Steiker, National Snow and Ice Data Center (NSIDC), CIRES, University of Colorado Boulder, Boulder, United States, Andrew Teucher, Openscapes, Victoria, Canada, Yuvi Panda, University of California, Berkeley, Division of Computing, Data Science and Society, Berkeley, United States, Mahsa Jami, University of Oklahoma Norman Campus, Geography and Environmental Sustainability, Norman, United States, Elizabeth E Holmes, NOAA Fisheries, Northwest Fisheries Science Center, Seattle, United States and NASA Openscapes Mentors
+<summary>Talk: IN23A-04 **The extensible social infrastructure enabling NASA Earthdata science in the cloud** (Invited) 14:50 - 15:00 CST. Point of contact: Julia Stewart Lowndes, Openscapes   
 </summary> 
   
-<https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1902613>
+<https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1902613>  
+
+Authors: Julia Stewart Lowndes, Openscapes, San Francisco, United States, Amy E Steiker, National Snow and Ice Data Center (NSIDC), CIRES, University of Colorado Boulder, Boulder, United States, Andrew Teucher, Openscapes, Victoria, Canada, Yuvi Panda, University of California, Berkeley, Division of Computing, Data Science and Society, Berkeley, United States, Mahsa Jami, University of Oklahoma Norman Campus, Geography and Environmental Sustainability, Norman, United States, Elizabeth E Holmes, NOAA Fisheries, Northwest Fisheries Science Center, Seattle, United States and NASA Openscapes Mentors  
 
 Session: IN23A - [Open-Source Geospatial Workflows in the Cloud: Tools and Techniques for Data Access, Analysis, Visualization, Storytelling, and Sharing in the Python and Jupyter Ecosystem II Oral](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/270571)
 
