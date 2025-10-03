@@ -114,7 +114,7 @@ Greg Leptoukh Lecture for the Earth and Space Science Informatics Section Presen
 **Talks**  
 
 <details>
-<summary>Talk: **Forking as a worldview: how Openscapes uses the open source concept of reuse-extend-credit to support researchers and shift culture in science **(Invited). **Julie Lowndes**
+<summary>Talk: Forking as a worldview: how Openscapes uses the open source concept of reuse-extend-credit to support researchers and shift culture in science (Invited). Julie Lowndes
 </summary> 
   
 event <https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/253380> and abstract <https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/2053086>
@@ -132,7 +132,7 @@ La Nouvelle AB (New Orleans Convention Center)
   
 <https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1962773>  
 
-Authors:  Michele Thornton**, Oak Ridge National Laboratory, Environmental Sciences Division, Oak Ridge, United States, Scott Pearson, Oak Ridge National Laboratory, Oak Ridge, United States, Rupesh Shrestha, Oak Ridge National Laboratory, Oak Ridge, TN, United States and Julia Stewart Lowndes, Openscapes, San Francisco, United States.
+Authors:  Michele Thornton, Oak Ridge National Laboratory, Environmental Sciences Division, Oak Ridge, United States, Scott Pearson, Oak Ridge National Laboratory, Oak Ridge, United States, Rupesh Shrestha, Oak Ridge National Laboratory, Oak Ridge, TN, United States and Julia Stewart Lowndes, Openscapes, San Francisco, United States.
 
 Session: IN44B - [Connecting Data to Science and Discovery: Innovations and Infrastructure Bridging Disparate Observations to Drive Earth Science II Oral](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/270547)
 
