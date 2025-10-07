@@ -13,15 +13,16 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 </summary> 
 
 - Julie: DD night - DD evening
-- 
+- Amy
+- Luis
   
 </details>
 
 ## earthaccess hack
 
-Monday Dec 15, 1:00 - 6:00 pm CST.
-
-supported in part by ESIP FUNding Friday.
+Monday Dec 15, 1:00 - 6:00 pm CST.  
+Details coming soon.  
+Supported in part by ESIP FUNding Friday.  
 
 ## Monday Dec 15
 
@@ -44,7 +45,20 @@ Monday,15 December 2025, 10:30 - 12:00 CST
 
 **Posters**
 
+<details>
+<summary>Poster: Scaling SAR Data Processing for NISAR: OpenScienceLab's Role in NASA's Science Cloud. Point of contact: Sargent Shriver, ASF.  
+</summary> 
+  
+<https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1958934>  
 
+Authors: Sargent Shriver1, Franz Josef Meyer2, Alex Lewandowski2, Eric Lundell1, Dylan Palmieri1, Brian Buechler1, Cameron Showalter1 and Samuel Gallagher1, (1)Alaska Satellite Facility, Fairbanks, United States, (2)Alaska Satellite Facility, Fairbanks, AK, United States
+
+Session: [IN11D - Transforming NASA Science Through Cloud Computing: Infrastructure, Platforms, and Success Stories Poster](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/252498)
+
+Monday,15 December 2025,  08:30 - 12:00 CST
+Hall EFG (Poster Hall) (New Orleans Convention Center)
+
+</details>
 
 ## Tuesday Dec 16
 
@@ -98,7 +112,35 @@ Tuesday, 16 December 2025, 15:30 - 15:40 CST
 
 **Posters** 
 
+<details>
+<summary>Poster: SAR Foundations to NISAR: Self-Guided Education with ASF Notebooks. Point of contact: Alex Lewandowski, ASF
+</summary> 
+  
+<https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1967602>  
 
+Authors: Alex Lewandowski1, Mario Angarita2, Kenneth Arnoult3, Brian Buechler3, Samuel Gallagher3, Joseph H Kennedy4, Zachary Hoppinen3, Eric Lundell5, Franz Josef Meyer6, Dylan Palmieri3, Andrew Player3, Cameron Showalter3 and Sargent Shriver3, (1)Alaska Satellite Facility, Fairbanks, AK, United States, (2)Alaska Satellite Facility, Geophysical Institute, University of Alaska Fairbanks, Fairbanks, Alaska, United States, (3)Alaska Satellite Facility, Fairbanks, United States, (4)University of Alaska Fairbanks, Alaska Satellite Facility, Fairbanks, United States, (5)University of Alaska Fairbanks, Fairbanks, United States, (6)University of Alaska Fairbanks, Geophysical Institute, Fairbanks, AK, United States
+
+Session: [IN21D - Open-Source Geospatial Workflows in the Cloud: Tools and Techniques for Data Access, Analysis, Visualization, Storytelling, and Sharing in the Python and Jupyter Ecosystem I Poster](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/252486)
+
+Tuesday, 16 December 2025,  08:30 - 12:00 CST
+Hall EFG (Poster Hall) (New Orleans Convention Center)
+
+</details>
+
+<details>
+<summary>Poster: ASF’s Cloud-native Data Service Portfolio To Accelerate Your Geospatial Science. Point of contact: Franz Josef Meyer, University of Alaska Fairbanks.
+</summary> 
+  
+<https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1984872>  
+
+Authors: Franz Josef Meyer1, Joseph H Kennedy2, Sargent Shriver3, Kathleen Kristenson3, Christy Fleming3, Greg Short3, Alex Lewandowski4 and Forrest F. Williams3, (1)University of Alaska Fairbanks, Geophysical Institute, Fairbanks, AK, United States, (2)University of Alaska Fairbanks, Alaska Satellite Facility, Fairbanks, United States, (3)Alaska Satellite Facility, Fairbanks, United States, (4)Alaska Satellite Facility, Fairbanks, AK, United States
+
+Session: [IN23C - Showcasing Your Earth Data Products, Tools, and Services for Interdisciplinary Research and Applications II Poster](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/262919)
+
+Tuesday, 16 December 2025, 14:15 - 17:45 CST
+Hall EFG (Poster Hall) (New Orleans Convention Center)
+
+</details>
 
 
 ## Wednesday Dec 17
