@@ -18,13 +18,18 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
   
 </details>
 
-## earthaccess hack
+## Monday Dec 15
+
+**earthaccess hackday**
 
 Monday Dec 15, 1:00 - 6:00 pm CST.  
-Details coming soon.  
+Details: <https://openscapes.org/events/2025-12-15-earthaccess-hackday>  
 Supported in part by ESIP FUNding Friday.  
 
-## Monday Dec 15
+**Happy Hour**
+Monday Dec 15, 6:00 pm CST.  
+Details: <https://luma.com/phrch777>  
+Co-hosted by Openscapes and Cloud Native Geospatial Forum
 
 **Talks**
 
