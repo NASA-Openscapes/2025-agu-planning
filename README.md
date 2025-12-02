@@ -26,11 +26,6 @@ Monday Dec 15, 1:00 - 6:00 pm CST.
 Details: <https://openscapes.org/events/2025-12-15-earthaccess-hackday>  
 Supported in part by ESIP FUNding Friday.  
 
-**Happy Hour**
-Monday Dec 15, 6:00 pm CST.  
-Details: <https://luma.com/phrch777>  
-Co-hosted by Openscapes and Cloud Native Geospatial Forum
-
 **Talks**
 
 <details>
@@ -64,6 +59,12 @@ Monday,15 December 2025,  08:30 - 12:00 CST
 Hall EFG (Poster Hall) (New Orleans Convention Center)
 
 </details>
+
+**Happy Hour**
+
+Monday Dec 15, 6:00 pm CST.  
+Details: <https://luma.com/phrch777>  
+Co-hosted by Openscapes and Cloud Native Geospatial Forum
 
 ## Tuesday Dec 16
 
