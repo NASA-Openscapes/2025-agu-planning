@@ -164,7 +164,9 @@ Hall EFG (Poster Hall) (New Orleans Convention Center)
 
 ## Thursday Dec 18
 
-[Greg Leptoukh Lecture for the Earth and Space Science Informatics Section Presented by Julia Lowndes!](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/253380), nominated by the NASA Openscapes Mentors, Aaron Friesz (ESIP), and Allison Horst.
+Many talks in Session IN44B - [Connecting Data to Science and Discovery: Innovations and Infrastructure Bridging Disparate Observations to Drive Earth Science II Oral](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/270547)
+
+Also [Greg Leptoukh Lecture for the Earth and Space Science Informatics Section Presented by Julia Lowndes](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/253380), nominated by the NASA Openscapes Mentors, Aaron Friesz (ESIP), and Allison Horst!
 
 **Talks**  
 
