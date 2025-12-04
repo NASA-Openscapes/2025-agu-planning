@@ -164,12 +164,12 @@ Hall EFG (Poster Hall) (New Orleans Convention Center)
 
 ## Thursday Dec 18
 
-Greg Leptoukh Lecture for the Earth and Space Science Informatics Section Presented by Julia Lowndes!
+[Greg Leptoukh Lecture for the Earth and Space Science Informatics Section Presented by Julia Lowndes!](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/253380), nominated by the NASA Openscapes Mentors, Aaron Friesz (ESIP), and Allison Horst.
 
 **Talks**  
 
 <details>
-<summary>Talk: Forking as a worldview: how Openscapes uses the open source concept of reuse-extend-credit to support researchers and shift culture in science (Invited). Julie Lowndes
+<summary>Talk: Forking as a worldview: how Openscapes uses the open source concept of reuse-extend-credit to support researchers and shift culture in science (Invited). Julie Lowndes. 8:30-10am CST
 </summary> 
   
 event <https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/253380> and abstract <https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/2053086>
