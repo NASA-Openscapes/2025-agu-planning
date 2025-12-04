@@ -67,6 +67,7 @@ Details: <https://luma.com/phrch777>
 Co-hosted by Openscapes and Cloud Native Geospatial Forum
 
 ## Tuesday Dec 16
+Many talks in Session IN23A - [Open-Source Geospatial Workflows in the Cloud: Tools and Techniques for Data Access, Analysis, Visualization, Storytelling, and Sharing in the Python and Jupyter Ecosystem II Oral](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/270571)
 
 **Talks**
 
@@ -87,7 +88,7 @@ Tuesday, 16 December 2025, 14:15 - 15:45  CST
 
 
 <details>
-<summary>Talk: IN23A-05 Virtual dataset integration into earthaccess: Community contributions to enable Earth science at scale 15:00 - 15:10 CST. Point of Contact: Daniel Edward Kaufman
+<summary>Talk: IN23A-05 Virtual dataset integration into earthaccess: Community contributions to enable Earth science at scale 15:00 - 15:10 CST. Point of Contact: Miguel Jimenez-Urias (OPeNDAP)
 </summary> 
   
 <https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1972814>  
