@@ -12,7 +12,7 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 <summary>When are people there? Please add yourself!
 </summary> 
 
-- Julie: DD night - DD evening
+- Julie: Saturday night - Friday noon
 - Amy
 - Luis
   
