@@ -13,7 +13,7 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 </summary> 
 
 - Julie: Saturday night - Friday noon
-- Amy
+- Amy: Sunday afternoon - Thursday evening
 - Luis
   
 </details>
